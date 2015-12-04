@@ -1,5 +1,5 @@
 {
-  "name": "ng-ckeditor",
+  "name": "ng-ckeditor-papageno",
   "version": "0.2.1",
   "main": [
     "ng-ckeditor.js",
@@ -7,7 +7,7 @@
   ],
   "dependencies": {
     "angular": "^1.3.0",
-    "ckeditor-papageno": "ckeditor-build"
+    "ckeditor-papageno": "https://github.com/papagenocms/ng-ckeditor.git"
   },
   "devDependencies": {
     "es5-shim": "~2.1.0",
